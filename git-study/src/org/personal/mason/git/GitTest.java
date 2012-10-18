@@ -11,5 +11,7 @@ public class GitTest {
 		System.out.println("Hello Git Once More!");
 		
 		System.out.println("Master after Merge Once More!");
+		
+		System.out.println("Master2 After Tag");
 	}
 }
