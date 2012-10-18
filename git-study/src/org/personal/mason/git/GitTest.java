@@ -13,5 +13,7 @@ public class GitTest {
 		System.out.println("New Branch2 After Merge!");
 
 		System.out.println("New Branch After Merge Once More!");
+		
+		System.out.println("last test for branch on newbranch");
 	}
 }
