@@ -11,5 +11,7 @@ public static void main(String[] args) {
 	System.out.println("Update Branch1 one more");
 	
 	System.out.println("Update Branch1 one more again");
+	
+	System.out.println("branch1 after merge branch2");
 }
 }
